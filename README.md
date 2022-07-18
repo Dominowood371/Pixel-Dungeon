@@ -7,7 +7,8 @@
 **Mods**
 | Mods | Code | Fork |
 |-|-|--|
-| Shattered Pixel Dungeon | https://github.com/00-Evan/shattered-pixel-dungeon | 0 |
+| Shattered Pixel Dungeon | https://github.com/00-Evan/shattered-pixel-dungeon | Original |
+| Remixed Dungeon | https://github.com/NYRDS/remixed-dungeon | Original |
 | Re-Remixed Dungeon | https://github.com/QuasiStellar/Re-Remixed_Dungeon | 0 |
 | Darkest Pixel Dungeon | https://github.com/egoal/darkest-pixel-dungeon | 0 |
 | SPecial Surprise Pixel Dungeon | https://github.com/hmdzl001/SPS-PD | 0 |
