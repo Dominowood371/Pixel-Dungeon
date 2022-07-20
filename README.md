@@ -1,10 +1,10 @@
-# Pixel-Dungeon 
+# Pixel Dungeon 
 
 ![This is an image](https://github.com/watabou/pixel-dungeon/blob/master/res/drawable-hdpi/ic_launcher.png "Pixel Dungeon" ) 
 
 > Original Pixel Dungeon: https://github.com/watabou/pixel-dungeon
 
-**Mods**
+**Mods:**
 | | Mods | Code | Fork |
 |-|-|-|-|
 | <img src="https://github.com/bilbolPrime/SPD/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Skillful Pixel Dungeon | https://github.com/bilbolPrime/SPD | Original 1.9.1 |
