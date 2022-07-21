@@ -37,7 +37,7 @@
 | <img src="https://github.com/lighthouse64/Random-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Random Dungeon| https://github.com/lighthouse64/Random-Dungeon | Original 1.9.1 |
 | <img src="https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon/blob/main/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Clairvoyant Pixel Dungeon | https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon | Shattered 0.9.3 |
 | <img src="https://github.com/AnsdoShip/star-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Star Pixel Dungeon | https://github.com/AnsdoShip/star-pixel-dungeon | Shattered 1.1.2 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | ARranged Pixel Dungeon | https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon | Shattered 1.3.0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
