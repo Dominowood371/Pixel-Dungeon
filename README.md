@@ -47,7 +47,8 @@
 **Programs:**
 | description | Code |
 |-|-|
-| Online save editor for the game Shattered Pixel Dungeon | https://github.com/Infinixius/spud |
+| Online save editor for the game Shattered Pixel Dungeon. | https://github.com/Infinixius/spud |
+| Shattered Pixel Dungeon Save Game Editor | https://github.com/kaaax0815/spd-editor |
 | A discord bot that randomly generates dubious claims on PD balance. | https://github.com/ifritdiezel/pdhottaker |
-
-
+| A pack of animated sprites for MarkoZajc#2119 hack week project! | https://github.com/AkiraNoHikari/spd-enemies-animated |
+| A generic tile map editor | https://github.com/NYRDS/tiled |
