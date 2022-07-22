@@ -8,7 +8,7 @@
 | | Mods | Code | Fork |
 |-|-|-|-|
 | <img src="https://github.com/bilbolPrime/SPD/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Skillful Pixel Dungeon | https://github.com/bilbolPrime/SPD | Original 1.9.1 |
-| <img src="https://github.com/NYRDS/remixed-dungeon/blob/master/GameServices/icon_216.png" alt="drawing" style="width:30px;"/> | Remixed Dungeon | https://github.com/NYRDS/remixed-dungeon | Original 1.9.1 |
+| <img src="https://github.com/NYRDS/remixed-dungeon/blob/master/RemixedDungeon/src/main/res/drawable-hdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Remixed Dungeon | https://github.com/NYRDS/remixed-dungeon | Original 1.9.1 |
 | <img src="https://github.com/00-Evan/shattered-pixel-dungeon/blob/master/android/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" alt="drawing" style="width:50px;"/> | Shattered Pixel Dungeon | https://github.com/00-Evan/shattered-pixel-dungeon | Original 1.9.1 |
 | <img src="https://github.com/FthrNature/unleashed-pixel-dungeon/blob/master/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Unleashed Pixel Dungeon | https://github.com/FthrNature/unleashed-pixel-dungeon | Shattered 0.3.0 |
 | <img src="https://github.com/locastan/GoblinsPixelDungeonGradle/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Goblins Pixel Dungeon | https://github.com/locastan/GoblinsPixelDungeonGradle | Shattered 0.3.0 |
@@ -38,8 +38,8 @@
 | <img src="https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon/blob/main/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Clairvoyant Pixel Dungeon | https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon | Shattered 0.9.3 |
 | <img src="https://github.com/AnsdoShip/star-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Star Pixel Dungeon | https://github.com/AnsdoShip/star-pixel-dungeon | Shattered 1.1.2 |
 | <img src="https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | ARranged Pixel Dungeon | https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon | Shattered 1.3.0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="https://github.com/3oiDburg/WuWuWu/blob/master/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | 3oiDburg-pixel-dungeon | https://github.com/3oiDburg/WuWuWu/ | Shattered 0.6.5 |
+| <img src="https://github.com/afomins/pixel-dungeon-3d/blob/dev-pd3d/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon 3D | https://github.com/afomins/pixel-dungeon-3d | Original 1.9.1 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
