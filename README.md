@@ -40,6 +40,20 @@
 | <img src="https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | ARranged Pixel Dungeon | https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon | Shattered 1.3.0 |
 | <img src="https://github.com/3oiDburg/WuWuWu/blob/master/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | 3oiDburg-pixel-dungeon | https://github.com/3oiDburg/WuWuWu/ | Shattered 0.6.5 |
 | <img src="https://github.com/afomins/pixel-dungeon-3d/blob/dev-pd3d/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon 3D | https://github.com/afomins/pixel-dungeon-3d | Original 1.9.1 |
+| <img src="https://github.com/EthanJoyce/Buttered-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Buttered Pixel Dungeon | https://github.com/EthanJoyce/Buttered-Pixel-Dungeon | Shattered 0.3.0 |
+| <img src="https://github.com/Noodlemire/ChancelPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Chancel Pixel Dungeon | https://github.com/Noodlemire/ChancelPixelDungeon | Shattered 0.6.5c |
+| <img src="https://github.com/pseusys/PXL610/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Classic Dungeon | https://github.com/pseusys/PXL610 | Original 1.9.1 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
