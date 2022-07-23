@@ -3,6 +3,7 @@
 ![This is an image](https://github.com/watabou/pixel-dungeon/blob/master/res/drawable-hdpi/ic_launcher.png "Pixel Dungeon" ) 
 
 > Original Pixel Dungeon: https://github.com/watabou/pixel-dungeon
+* Web port of [Pixel Dungeon](https://nojus297.github.io/pixel-dungeon-gdx/) (1.9.2a)
 
 **Mods:**
 | | Mods | Code | Fork |
@@ -19,6 +20,7 @@
 | <img src="https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Summoning Pixel Dungeon | https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon | Shattered 0.9.0 |
 | <img src="https://github.com/dachhack/SproutedPixelDungeon-Gradle/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Sprouted Pixel Dungeon | https://github.com/dachhack/SproutedPixelDungeon-Gradle | Shattered 0.2.4 |
 | <img src="https://github.com/G2159687/ESPD/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Easier Sprouted Pixel Dungeon | https://github.com/G2159687/ESPD | Sprouted 0.4.1 |
+| <img src="https://github.com/Smujb/harder-sprouted-pd/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:48px;"/> | Harder Sprouted Pixel Dungeon | https://github.com/Smujb/harder-sprouted-pd | Sprouted 0.4.1 |
 | <img src="https://github.com/ConsideredHamster/YetAnotherPixelDungeon/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Yet Another Pixel Dungeon | https://github.com/ConsideredHamster/YetAnotherPixelDungeon | Original 1.7.5 |
 | <img src="https://gitlab.com/RavenWolfPD/nonameyetpixeldungeon/-/raw/master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:60px;"/> | No Name Yet Another Pixel Dungeon | https://gitlab.com/RavenWolfPD/nonameyetpixeldungeon | Yet Another 0.3.1j |
 | <img src="https://github.com/udawos/pioneer/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pioneer Pixel Dungeon | https://github.com/udawos/pioneer | Original |
@@ -43,17 +45,15 @@
 | <img src="https://github.com/EthanJoyce/Buttered-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Buttered Pixel Dungeon | https://github.com/EthanJoyce/Buttered-Pixel-Dungeon | Shattered 0.3.0 |
 | <img src="https://github.com/Noodlemire/ChancelPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Chancel Pixel Dungeon | https://github.com/Noodlemire/ChancelPixelDungeon | Shattered 0.6.5c |
 | <img src="https://github.com/pseusys/PXL610/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Classic Dungeon | https://github.com/pseusys/PXL610 | Original 1.9.1 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="https://github.com/BrightBotTeam/DeisticPixelDungeon/blob/master/DeisticPixelDungeon/res/drawable-xxxhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Deistic Pixel Dungeon | https://github.com/BrightBotTeam/DeisticPixelDungeon | Sprouted |
+| <img src="https://github.com/arfonzocoward/dixel-pungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Dixel Pungeon | https://github.com/arfonzocoward/dixel-pungeon | Original 1.9.1 |
+| <img src="https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Easier-Vanilla-Pixel-Dungeon | https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon |  Original 1.9.1 |
+| <img src="https://github.com/TrashboxBobylev/Experienced-Pixel-Dungeon-Redone/blob/master/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Experienced Pixel Dungeon | https://github.com/TrashboxBobylev/Experienced-Pixel-Dungeon-Redone | Shattered 0.8.2 |
+| <img src="https://github.com/HappyAlfred/fushigi-no-pixel-dungeon/blob/master/core/src/debug/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:48px;"/> | Fushigi no Pixel Dungeon | https://github.com/HappyAlfred/fushigi-no-pixel-dungeon | Shattered 0.6.5 |
+| <img src="https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> |  Girls' Frontline Pixel Dungeon | https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon | Shattered 0.5.0 |
+| <img src="https://github.com/pjs9322/jojo_pixdun_easy/blob/master/jojo_pixdun_easy/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Jojo's Bizarre Adventure | https://github.com/pjs9322/jojo_pixdun_easy | Shattered 0.7.5a |
+| <img src="https://github.com/Sadsaltan/LovecraftPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lovecraft Pixel Dungeon | https://github.com/Sadsaltan/LovecraftPixelDungeon | Shattered 0.6.2a |
+| <img src="https://github.com/Zrp200/lustrous-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lustrous Pixel Dungeon | https://github.com/Zrp200/lustrous-pixel-dungeon | Shattered 0.7.4 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
