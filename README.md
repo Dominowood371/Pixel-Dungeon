@@ -54,9 +54,20 @@
 | <img src="https://github.com/pjs9322/jojo_pixdun_easy/blob/master/jojo_pixdun_easy/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Jojo's Bizarre Adventure | https://github.com/pjs9322/jojo_pixdun_easy | Shattered 0.7.5a |
 | <img src="https://github.com/Sadsaltan/LovecraftPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lovecraft Pixel Dungeon | https://github.com/Sadsaltan/LovecraftPixelDungeon | Shattered 0.6.2a |
 | <img src="https://github.com/Zrp200/lustrous-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lustrous Pixel Dungeon | https://github.com/Zrp200/lustrous-pixel-dungeon | Shattered 0.7.4 |
+| <img src="https://github.com/AnonymousPD/OvergrownPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Overgrown Pixel Dungeon | https://github.com/AnonymousPD/OvergrownPixelDungeon https://github.com/AnonymousPD/OvergrownPD | Shattered 0.7.4 |
+| <img src="https://github.com/QuasiStellar/PalantirPD/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Palantir | https://github.com/QuasiStellar/PalantirPD | Sprouted |
+| <img src="https://github.com/gohjohn/phoenix-pixel-dugeon/blob/master/pixeldungeon/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Phoenix Pixel Dungeon | https://github.com/gohjohn/phoenix-pixel-dugeon | Original 1.9.1 |
+| <img src="https://github.com/etoitau/Pixel-Dungeon-Echo/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:40px;"/> | Pixel Dungeon Echo | https://github.com/etoitau/Pixel-Dungeon-Echo | Skillful 0.4.5 |
+| <img src="https://github.com/NagaChiang/pixel-dungeon-legends/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon Legends | https://github.com/NagaChiang/pixel-dungeon-legends | Original 1.7.5a |
+| <img src="https://github.com/bcasiello/pixel-dungeon-rescue/blob/main/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon Rescue | https://github.com/bcasiello/pixel-dungeon-rescue | Shatttered 1.1.0 |
+| <img src="https://github.com/TrickQuestion/pixel-ponies/blob/master/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Ponies! | https://github.com/TrickQuestion/pixel-ponies | Remixed 23.2.fix.1 |
+| <img src="https://github.com/shaiay/pixel-dungeon/blob/playstore/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:35px;"/> | Pixel unDungeon | https://github.com/shaiay/pixel-dungeon | Original 1.9.1u |
+| <img src="https://github.com/l-Luna/prismatic-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Prismatic Pixel Dungeon | https://github.com/l-Luna/prismatic-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png | Shatttered 0.9.3 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+
+**Source and apk lost:**
+* Plugin Pixel Dungeon
+* Overgrown Pixel Dungeon (0.0.3)
 
 **Programs:**
 | description | Code |
@@ -66,3 +77,5 @@
 | A discord bot that randomly generates dubious claims on PD balance. | https://github.com/ifritdiezel/pdhottaker |
 | A pack of animated sprites for MarkoZajc#2119 hack week project! | https://github.com/AkiraNoHikari/spd-enemies-animated |
 | A generic tile map editor | https://github.com/NYRDS/tiled |
+
+> **Note:** I'm not trying to steal someone else's work, but I'm trying to preserve the legacy of mods so that anyone can access mods
