@@ -63,11 +63,25 @@
 | <img src="https://github.com/TrickQuestion/pixel-ponies/blob/master/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Ponies! | https://github.com/TrickQuestion/pixel-ponies | Remixed 23.2.fix.1 |
 | <img src="https://github.com/shaiay/pixel-dungeon/blob/playstore/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:35px;"/> | Pixel unDungeon | https://github.com/shaiay/pixel-dungeon | Original 1.9.1u |
 | <img src="https://github.com/l-Luna/prismatic-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Prismatic Pixel Dungeon | https://github.com/l-Luna/prismatic-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png | Shatttered 0.9.3 |
+| <img src="https://github.com/cuneytoner/PixelDungeonRemake/blob/master/PixelDungeon/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Remake Pixel Dungeon | https://github.com/cuneytoner/PixelDungeonRemake | Remixed 25.4 |
+| <img src="https://github.com/umarnobbee/Ripped-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Ripped Pixel Dungeon | https://github.com/umarnobbee/Ripped-Pixel-Dungeon | Original 1.7.2 |
+| <img src="https://github.com/MarshalldotEXE/rivals-pixel-dungeon/blob/master/android/src/debug/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Rivals Pixel Dungeon | https://github.com/MarshalldotEXE/rivals-pixel-dungeon | Shatttered 0.7.4 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 
 **Source and apk lost:**
 * Plugin Pixel Dungeon
 * Overgrown Pixel Dungeon (0.0.3)
+* Rat King Dungeon 
 
 **Programs:**
 | description | Code |
