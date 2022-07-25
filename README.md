@@ -66,7 +66,7 @@
 | <img src="https://github.com/cuneytoner/PixelDungeonRemake/blob/master/PixelDungeon/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Remake Pixel Dungeon | https://github.com/cuneytoner/PixelDungeonRemake | Remixed 25.4 |
 | <img src="https://github.com/umarnobbee/Ripped-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Ripped Pixel Dungeon | https://github.com/umarnobbee/Ripped-Pixel-Dungeon | Original 1.7.2 |
 | <img src="https://github.com/MarshalldotEXE/rivals-pixel-dungeon/blob/master/android/src/debug/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Rivals Pixel Dungeon | https://github.com/MarshalldotEXE/rivals-pixel-dungeon | Shatttered 0.7.4 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="https://github.com/wolispace/soft-pixel-dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Soft Pixel Dungeon | https://github.com/wolispace/soft-pixel-dungeon | Shaterred 0.2.3 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
