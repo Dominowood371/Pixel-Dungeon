@@ -69,12 +69,12 @@
 | <img src="https://github.com/wolispace/soft-pixel-dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Soft Pixel Dungeon | https://github.com/wolispace/soft-pixel-dungeon | Shaterred 0.2.3 |
 | <img src="https://github.com/CuteLunaMoon/Survival-Pixel-Dungeon/blob/master/shattered-pixel-dungeon-master-2/core/src/debug/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Survival Pixel Dungeon | https://github.com/CuteLunaMoon/Survival-Pixel-Dungeon | Overgrown 0.0.2 |
 | <img src="https://github.com/juh9870/TooCruelPixelDungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:35px;"/> | Too Cruel Pixel Dungeon | https://github.com/juh9870/TooCruelPixelDungeon | Shaterred 0.7.5e |
-| <img src="" alt="drawing" style="width:30px;"/> | Tunable Pixel Dungeon | https://github.com/keithr-git/tunable-pixel-dungeon | Original 1.9.1 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="https://github.com/keithr-git/tunable-pixel-dungeon/blob/master/com.keithr.tunable-pixel-dungeon/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Tunable Pixel Dungeon | https://github.com/keithr-git/tunable-pixel-dungeon | Original 1.9.1 |
+| <img src="https://github.com/mango-tree/UNIST-pixel-dungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | UNIST Pixel Dungeon | https://github.com/mango-tree/UNIST-pixel-dungeon | Shattered 0.4.3c |
+| <img src="https://github.com/mikkehj/SerenityPixelDungeon/blob/main/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Serenity Pixel Dungeon | https://github.com/mikkehj/SerenityPixelDungeon | Shattered  |
+| <img src="https://github.com/SuperSaiyan99-SS99/pixel-dungeon/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Unbreakable Pixel Dungeon | https://github.com/SuperSaiyan99-SS99/pixel-dungeon | Original 1.9.1  |
+| <img src="https://github.com/gohjohn/undegraded-pixel-dungeon/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Undegraded Pixel Dungeon | https://github.com/gohjohn/undegraded-pixel-dungeon | Original 1.7.5a |
+| <img src="https://github.com/britsman/pixel-dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:28px;"/> | Your Pixel Dungeon | https://github.com/britsman/pixel-dungeon | Original 1.7.5 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 
