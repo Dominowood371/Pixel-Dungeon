@@ -78,6 +78,11 @@
 | <img src="https://github.com/britsman/pixel-dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:28px;"/> | Your Pixel Dungeon | https://github.com/britsman/pixel-dungeon | Original 1.7.5 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
+| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 |
 
 **Source and apk lost:**
 * Plugin Pixel Dungeon
