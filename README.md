@@ -40,17 +40,18 @@
 | <img src="https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon/blob/main/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Clairvoyant Pixel Dungeon | https://github.com/ifritdiezel/Clairvoyant-Pixel-Dungeon | Shattered 0.9.3 |
 | <img src="https://github.com/AnsdoShip/star-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Star Pixel Dungeon | https://github.com/AnsdoShip/star-pixel-dungeon | Shattered 1.1.2 |
 | <img src="https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | ARranged Pixel Dungeon | https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon | Shattered 1.3.0 |
-| <img src="https://github.com/3oiDburg/WuWuWu/blob/master/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | 3oiDburg-pixel-dungeon | https://github.com/3oiDburg/WuWuWu/ | Shattered 0.6.5 |
+| <img src="https://github.com/Hoto-Mocha/Thief-Pixel-Dungeon/blob/main/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Thief Pixel Dungeon | [https://github.com/Hoto-Mocha/ARranged-Pixel-Dungeon](https://github.com/Hoto-Mocha/Thief-Pixel-Dungeon) | Shattered 1.2.3 |
+| <img src="https://github.com/3oiDburg/WuWuWu/blob/master/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | 3oiDburg Pixel Dungeon | https://github.com/3oiDburg/WuWuWu/ | Shattered 0.6.5 |
 | <img src="https://github.com/afomins/pixel-dungeon-3d/blob/dev-pd3d/android/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon 3D | https://github.com/afomins/pixel-dungeon-3d | Original 1.9.1 |
 | <img src="https://github.com/EthanJoyce/Buttered-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Buttered Pixel Dungeon | https://github.com/EthanJoyce/Buttered-Pixel-Dungeon | Shattered 0.3.0 |
 | <img src="https://github.com/Noodlemire/ChancelPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Chancel Pixel Dungeon | https://github.com/Noodlemire/ChancelPixelDungeon | Shattered 0.6.5c |
 | <img src="https://github.com/pseusys/PXL610/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Classic Dungeon | https://github.com/pseusys/PXL610 | Original 1.9.1 |
 | <img src="https://github.com/BrightBotTeam/DeisticPixelDungeon/blob/master/DeisticPixelDungeon/res/drawable-xxxhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Deistic Pixel Dungeon | https://github.com/BrightBotTeam/DeisticPixelDungeon | Sprouted |
 | <img src="https://github.com/arfonzocoward/dixel-pungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Dixel Pungeon | https://github.com/arfonzocoward/dixel-pungeon | Original 1.9.1 |
-| <img src="https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Easier-Vanilla-Pixel-Dungeon | https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon |  Original 1.9.1 |
+| <img src="https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Easier Vanilla Pixel Dungeon | https://github.com/G2159687/Easier-Vanilla-Pixel-Dungeon |  Original 1.9.1 |
 | <img src="https://github.com/TrashboxBobylev/Experienced-Pixel-Dungeon-Redone/blob/master/android/src/main/res/mipmap-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Experienced Pixel Dungeon | https://github.com/TrashboxBobylev/Experienced-Pixel-Dungeon-Redone | Shattered 0.8.2 |
 | <img src="https://github.com/HappyAlfred/fushigi-no-pixel-dungeon/blob/master/core/src/debug/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:48px;"/> | Fushigi no Pixel Dungeon | https://github.com/HappyAlfred/fushigi-no-pixel-dungeon | Shattered 0.6.5 |
-| <img src="https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> |  Girls' Frontline Pixel Dungeon | https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon | Shattered 0.5.0 |
+| <img src="https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> |  Girls Frontline Pixel Dungeon | https://github.com/Sharku2011/GirlsFrontline-pixel-dungeon | Shattered 0.5.0 |
 | <img src="https://github.com/pjs9322/jojo_pixdun_easy/blob/master/jojo_pixdun_easy/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Jojo's Bizarre Adventure | https://github.com/pjs9322/jojo_pixdun_easy | Shattered 0.7.5a |
 | <img src="https://github.com/Sadsaltan/LovecraftPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lovecraft Pixel Dungeon | https://github.com/Sadsaltan/LovecraftPixelDungeon | Shattered 0.6.2a |
 | <img src="https://github.com/Zrp200/lustrous-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lustrous Pixel Dungeon | https://github.com/Zrp200/lustrous-pixel-dungeon | Shattered 0.7.4 |
@@ -80,8 +81,13 @@
 
 **Source and apk lost:**
 * Plugin Pixel Dungeon
-* Overgrown Pixel Dungeon (0.0.3)
 * Rat King Dungeon 
+
+**Apk lost:**
+* Overgrown Pixel Dungeon (0.0.3)
+* Random Dungeon
+* Magic Ling Pixel Dungeon Part 2
+* Star Pixel Dungeon
 
 **Programs:**
 | description | Code |
