@@ -86,10 +86,18 @@
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/2c/Perfect_Pixel_Dungeon-0.png/revision/latest?cb=20190906202529" alt="drawing" style="width:30px;"/> | Perfect Pixel Dungeon |  | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Perfect_Pixel_Dungeon) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/6/6b/Jazz_Dungeon_%28new%29.png/revision/latest?cb=20210522105819" alt="drawing" style="width:30px;"/> | Jazz Dungeon |  |  Original 1.7.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Jazz_Dungeon), [itch.io](https://mindaugasrumsa.itch.io/jazz-dungeon) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/23/Frog_Pixel_Dungeon.png/revision/latest?cb=20190906143401" alt="drawing" style="width:30px;"/> | Frog Pixel Dungeon |  | Shattered 0.7.4c | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Frog_Pixel_Dungeon) |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
-| <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/9e/Prayers.png/revision/latest?cb=20180327135432" alt="drawing" style="width:30px;"/> | ASCII Pixel Dungeon |  | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/ASCII_Pixel_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/25/Dungeon_Run_WIP-0.png/revision/latest?cb=20190906144550" alt="drawing" style="width:30px;"/> | Dungeon Run WIP |  | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Dungeon_Run_WIP) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/29/Easier_PD.png/revision/latest?cb=20190906144657" alt="drawing" style="width:30px;"/> | Easier Pixel Dungeon |  | Original 1.7.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Easier_Pixel_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/4/4e/Hell_dungeon.png/revision/latest?cb=20190906201739" alt="drawing" style="width:30px;"/> | Hell Dungeon |  | Original 1.7.5a | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Hell_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/34/Hell_Dungeon_Rewarded-0.png/revision/latest?cb=20190906202108" alt="drawing" style="width:30px;"/> | Hell_Dungeon_REWARDED |  | Original 1.7.5a | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Hell_Dungeon_REWARDED) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/98/Loot_Dungeon-0.png/revision/latest?cb=20190906202206" alt="drawing" style="width:30px;"/> | Loot Dungeon |  | Original 1.7.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Loot_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/b/b7/Shattered_Loot_Dungeon-0.png/revision/latest?cb=20190904150310" alt="drawing" style="width:30px;"/> | Loot Dungeon Shattered |  | Shattered 0.6.5c | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Loot_Dungeon_Shattered) |
+| <img src="https://github.com/Meduris/MinecraftPixelDungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Minecraft Pixel Dungeon | [Github](https://github.com/Meduris/MinecraftPixelDungeon) | Shattered 0.3.3b - 0.6.5c | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Minecraft_Pixel_Dungeon) |
+| <img src="https://github.com/roastedlasagna/mo-food-mod/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Mo' Food Mod Pixel Dungeon | [Github](https://github.com/roastedlasagna/mo-food-mod) | Original 1.7.1c | |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/9e/Prayers.png/revision/latest?cb=20180327135432" alt="drawing" style="width:30px;"/> | Pixel Dungeon + |  | Original 1.7.1 | [Microsoft Store](https://www.microsoft.com/en-us/p/pixel-dungeon/9p94wzvrlnw0) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/39/Shattered_Trap_Dungeon-0.png/revision/latest?cb=20190906203157" alt="drawing" style="width:30px;"/> | Shattered Trap Pixel Dungeon |  | Shattered 0.7.3 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Shattered_Trap_Pixel_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/28/Pixel_Dungeon_In_dev.png/revision/latest?cb=20190902131426" alt="drawing" style="width:30px;"/> | Added Pixel Dungeon | [Github](https://github.com/AddedPD-Dev/added-pixel-dungeon) | Shatered 0.7.5e | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Added_Pixel_Dungeon) |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
 | <img src="" alt="drawing" style="width:30px;"/> |  |  | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/) |
@@ -104,6 +112,8 @@
 * Random Dungeon
 * Magic Ling Pixel Dungeon Part 2
 * Star Pixel Dungeon
+* Easy Dungeon
+* Mo' Food Mod Pixel Dungeon
 
 **Programs:**
 | description | Code |
