@@ -59,7 +59,7 @@
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/2/22/Jojo_Bizzare_Adventure_PD_logo.png/revision/latest?cb=20200626135500" alt="drawing" style="width:30px;"/> | Jojo's Bizarre Adventure | [Github](https://github.com/pjs9322/jojo_pixdun_easy) | Shattered 0.7.5a | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Jojo's_Bizarre_Adventure) |
 | <img src="https://github.com/Sadsaltan/LovecraftPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lovecraft Pixel Dungeon | [Github](https://github.com/Sadsaltan/LovecraftPixelDungeon) | Shattered 0.6.2a | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Lovecraft_Pixel_Dungeon) |
 | <img src="https://github.com/Zrp200/lustrous-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Lustrous Pixel Dungeon | [Github](https://github.com/Zrp200/lustrous-pixel-dungeon) | Shattered 0.7.4 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Lustrous_Pixel_Dungeon), [Releases](https://github.com/Zrp200/lustrous-pixel-dungeon/releases) |
-| <img src="https://github.com/AnonymousPD/OvergrownPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Overgrown Pixel Dungeon | [Github](https://github.com/AnonymousPD/OvergrownPixelDungeon) [Github](https://github.com/AnonymousPD/OvergrownPD) | Shattered 0.7.4 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Overgrown_Pixel_Dungeon) (0.0.2) |
+| <img src="https://github.com/AnonymousPD/OvergrownPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Overgrown Pixel Dungeon | [Github](https://github.com/AnonymousPD/OvergrownPixelDungeon) [Github](https://github.com/AnonymousPD/OvergrownPD) | Shattered 0.7.4 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Overgrown_Pixel_Dungeon) (0.0.2), Apk lost (0.0.3) |
 | <img src="https://github.com/QuasiStellar/PalantirPD/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Palantir | [Github](https://github.com/QuasiStellar/PalantirPD) | Sprouted 0.4.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Palantir) |
 | <img src="https://github.com/gohjohn/phoenix-pixel-dugeon/blob/master/pixeldungeon/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Phoenix Pixel Dungeon | [Github](https://github.com/gohjohn/phoenix-pixel-dugeon) | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Phoenix_Pixel_Dungeon) |
 | <img src="https://github.com/etoitau/Pixel-Dungeon-Echo/blob/master/app/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:40px;"/> | Pixel Dungeon Echo | [Github](https://github.com/etoitau/Pixel-Dungeon-Echo) | Skillful 0.4.5 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Pixel_Dungeon_Echo), [Google Play](https://play.google.com/store/apps/details?id=com.etoitau.pixeldungeon) |
@@ -95,6 +95,7 @@
 | <img src="https://github.com/p1nesap/EZDungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | EZDungeon | [Github](https://github.com/p1nesap/EZDungeon) | Original 1.7.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/EZ_Dungeon)|
 | <img src="https://github.com/dreamdream2020/scorched-pixel-dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Scorched Pixel Dungeon | [Github](https://github.com/dreamdream2020/scorched-pixel-dungeon) | Shattered 0.9.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Scorched_Pixel_Dungeon), [Releases](https://github.com/dreamdream2020/scorched-pixel-dungeon/releases) |
 | <img src="https://github.com/PATRIOT-BALL/ARK_PD/blob/main/Arrrknights/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Tomorrows RogueNights | [Github](https://github.com/PATRIOT-BALL/ARK_PD) | Shattered 0.4.0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Tomorrows_RogueNights) [Releases](https://mizq4482.tistory.com/m/category/%EB%AA%85%ED%94%BD%EB%8D%98%20%EC%A0%95%EB%B3%B4/%EB%AA%85%ED%94%BD%EB%8D%98%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EB%A7%81%ED%81%AC) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/38/Traditional_Chinese_Pixel_Dungeon.png/revision/latest?cb=20190907001844" alt="drawing" style="width:30px;"/> | 像素地牢(繁體中文版)	 | [Github](https://github.com/kurtyu/PixelDungeonTC) | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Pixel_Dungeon_(Traditional_Chinese_Version)) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/c/c8/Statistics_Pixel_Dungeon.png/revision/latest?cb=20190907165646" alt="drawing" style="width:30px;"/> | Statistics Pixel Dungeon |  | Shattered 0.6.5 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Statistics_Pixel_Dungeon) |
 | <img src="https://play-lh.googleusercontent.com/o1zTZWQhJCzDdJch7r231k97ixPTg9musyMPqzDS3n1JjZV5JfxZWWN2Yf9Vm-0N2g=w240-h480-rw" alt="drawing" style="width:30px;"/> | Reclaim the Dungeon Roguelike |  | ? | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Reclaim_the_Dungeon_Roguelike), [Google Play](https://play.google.com/store/apps/details?id=com.SaffronGames.differentdungeon) |
 | <img src="https://play-lh.googleusercontent.com/7-iky27QIiMt7RIQykd7d5-D8cDQA_yH8UJKj2Fjxyfbt3eMXgD2Q4xx2wEAU1A7jU4=w240-h480-rw" alt="drawing" style="width:30px;"/> | Ye Old Rogue RPG (Pixel Dungeon Prayers) |  | Original 1.7.2 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Ye_Old_Rogue_RPG), [Google Play](https://play.google.com/store/apps/details?id=com.kenjun.pixeldungeon) |
@@ -114,11 +115,11 @@
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/9e/Prayers.png/revision/latest?cb=20180327135432" alt="drawing" style="width:30px;"/> | Pixel Dungeon + |  | Original 1.7.1 | [Microsoft Store](https://www.microsoft.com/en-us/p/pixel-dungeon/9p94wzvrlnw0) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/f/fb/Pixel_Dungeon_origins.png/revision/latest?cb=20190907165311" alt="drawing" style="width:30px;"/> | Pixel Dungeon Origins | | Shattered 0.6.4 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Pixel_Dungeon_Origins) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/39/Ic_launcher_sprouted.png/revision/latest?cb=20180116163514" alt="drawing" style="width:30px;"/> | Regrown Pixel Dungeon | | Sprouted 0.4.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Regrown_Pixel_Dungeon) |
-| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/38/Traditional_Chinese_Pixel_Dungeon.png/revision/latest?cb=20190907001844" alt="drawing" style="width:30px;"/> | 像素地牢(繁體中文版)	 | | Original 1.9.1 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Pixel_Dungeon_(Traditional_Chinese_Version)) |
 |  | Whisky Pixel Dungeon | | Shattered | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Whisky_Pixel_Dungeon)|
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/e/ee/Yoruitaru_Touhou_Pixel_Dungeon.png/revision/latest?cb=20190907144040" alt="drawing" style="width:30px;"/> | Yoruitaru TouHou Dungeon |  | Shattered | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Yoruitaru_Touhou_Pixel_Dungeon) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/f/f0/Corrupted_Pixel_Dungeon_%28new%29.png/revision/latest?cb=20190907151413" alt="drawing" style="width:30px;"/> | Corrupted Pixel Dungeon |  | Original 0.4.3c | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Corrupted_Pixel_Dungeon) |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/f/f6/DaiDuo_Dungeon.png/revision/latest?cb=20190907003917" alt="drawing" style="width:30px;"/> | DaiDuo Dungeon |  | Shattered 2.5d | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/DaiDuo_Dungeon) |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/e/e7/PluginPD.png/revision/latest?cb=20180402151549" alt="drawing" style="width:30px;"/> | Plugin Pixel Dungeon | | Shattered 0.6.1b | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Plugin_Pixel_Dungeon) |
 | <img src="https://github.com/roastedlasagna/mo-food-mod/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Mo' Food Mod Pixel Dungeon | [Github](https://github.com/roastedlasagna/mo-food-mod) | Original 1.7.1c | |
 | <img src="https://github.com/lighthouse64/Random-Dungeon/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Random Dungeon| [Github](https://github.com/lighthouse64/Random-Dungeon) | Original 1.9.1 |  |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/a/aa/Ic_launcher.png/revision/latest?cb=20140825160623" alt="drawing" style="width:30px;"/> | cPixel Dungeon | [Github](https://github.com/gene1wood/cPixelDungeon), [Github](https://github.com/ggzzlegend9812/cPixelDungeon), [Github](https://github.com/digideskio/cPixelDungeon) | Original 1.7.1c |  |
@@ -129,21 +130,18 @@
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/9e/Prayers.png/revision/latest?cb=20180327135432" alt="drawing" style="width:30px;"/> | Pixel Dungeon Legacy Mode | | Original 1.9.1 |  |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/d/d0/Deep_Dungeon.jpg/revision/latest?cb=20190907162645" alt="drawing" style="width:30px;"/> | Deep Dungeon	| | Original 1.7.2a | |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/7/75/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88_Shattered_PD_Japan.png/revision/latest?cb=20190907001946" alt="drawing" style="width:30px;"/> | 日本語版 Shattered PD | | Shattered 0.6.5c | |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/34/Rat_King%27s.png/revision/latest?cb=20190906202938" alt="drawing" style="width:30px;"/> | Rat King Dungeon  | | Original 1.9.1  | |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/c/cd/Easy_PD_%282%29.png/revision/latest?cb=20201226124800" alt="drawing" style="width:30px;"/> | Easy Dungeon | | Original 1.7.1 | |
+| | Yoruitaru TouHou Dungeon 2 |  |  |  |
+| <img src="https://github.com/ndachel/PD-ice/blob/master/res/drawable-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Shattered Ice Pixel Dungeon | [Github](https://github.com/ndachel/PD-ice) | Shattered | |
+| <img src="https://github.com/BBleae/satori-pixel-dungeon/blob/master/android/src/main/res/drawable/icon2.png" alt="drawing" style="width:30px;"/> | Satori's Pixel Dungeon | [Github](https://github.com/BBleae/satori-pixel-dungeon) | Shattered 0.7.5 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Satoris_Pixel_Dungeon), [Releases](https://github.com/BBleae/satori-pixel-dungeon/releases)|
+| <img src="https://github.com/LukasAnda/SmashedPixelDungeon/blob/master/core/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Smashed Pixel Dungeon | [Github](https://github.com/LukasAnda/SmashedPixelDungeon) | Shattered | |
+| <img src="https://github.com/1015561267/ArknightsPixelDungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Arknights Pixel Dungeon | [Github](https://github.com/1015561267/ArknightsPixelDungeon) | Shattered 0.6.5 | |
+| <img src="https://github.com/GrampHoang/Gensokyo-pixel-dungeon/blob/main/android/src/debug/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:50px;"/> | Gensokyo Pixel Dungeon | [Github](https://github.com/GrampHoang/Gensokyo-pixel-dungeon) | Shattered 1.3 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Gensokyo_Pixel_Dungeon) |
+| <img src="https://github.com/AndersenJ/flashcard-pixel-dungeon/blob/development/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:50px;"/> | Flashcard Pixel Dungeon | [Github](https://github.com/AndersenJ/flashcard-pixel-dungeon) | Shattered 0.7.5 | |
+| <img src="https://github.com/ReallyBasicGames/Shattered-Pixel-Lore/blob/main/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Shattered Pixel Lore | [Github](https://github.com/ReallyBasicGames/Shattered-Pixel-Lore) | Shattered 1.0.3| |
 
-| <img src="" alt="drawing" style="width:30px;"/> |  | [Github]() | 0 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
-
-**Source and apk lost:**
-* Plugin Pixel Dungeon
-* Rat King Dungeon 
-
-**Apk lost:**
-* Overgrown Pixel Dungeon (0.0.3)
-* Random Dungeon
-* Magic Ling Pixel Dungeon Part 2
-* Easy Dungeon
-* Mo' Food Mod Pixel Dungeon
-* cPixel Dungeon	
-* Yoruitaru TouHou Dungeon 2
+| <img src="" alt="drawing" style="width:30px;"/> |  | [Github]() | | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
 
 **Programs:**
 | description | Code |
@@ -153,5 +151,5 @@
 | A discord bot that randomly generates dubious claims on PD balance. | https://github.com/ifritdiezel/pdhottaker |
 | A pack of animated sprites for MarkoZajc#2119 hack week project! | https://github.com/AkiraNoHikari/spd-enemies-animated |
 | A generic tile map editor | https://github.com/NYRDS/tiled |
-
+| Application to find specific seeds for Shattered Pixel Dungeon | https://github.com/alessiomarotta/shpd-seed-finder |
 > **Note:** I'm not trying to steal someone else's work, but I'm trying to preserve the legacy of mods so that anyone can access mods
