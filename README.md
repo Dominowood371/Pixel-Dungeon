@@ -130,7 +130,7 @@
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/9/9e/Prayers.png/revision/latest?cb=20180327135432" alt="drawing" style="width:30px;"/> | Pixel Dungeon Legacy Mode | | Original 1.9.1 |  |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/d/d0/Deep_Dungeon.jpg/revision/latest?cb=20190907162645" alt="drawing" style="width:30px;"/> | Deep Dungeon	| | Original 1.7.2a | |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/7/75/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88_Shattered_PD_Japan.png/revision/latest?cb=20190907001946" alt="drawing" style="width:30px;"/> | 日本語版 Shattered PD | | Shattered 0.6.5c | |
-| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/34/Rat_King%27s.png/revision/latest?cb=20190906202938" alt="drawing" style="width:30px;"/> | Rat King Dungeon  | | Original 1.9.1  | |
+| <img src="https://static.wikia.nocookie.net/pixeldungeon/images/3/34/Rat_King%27s.png/revision/latest?cb=20190906202938" alt="drawing" style="width:30px;"/> | Rat King Dungeon  | | Original 1.9.1 | |
 | <img src="https://static.wikia.nocookie.net/pixeldungeon/images/c/cd/Easy_PD_%282%29.png/revision/latest?cb=20201226124800" alt="drawing" style="width:30px;"/> | Easy Dungeon | | Original 1.7.1 | |
 | | Yoruitaru TouHou Dungeon 2 |  |  |  |
 | <img src="https://github.com/ndachel/PD-ice/blob/master/res/drawable-xhdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Shattered Ice Pixel Dungeon | [Github](https://github.com/ndachel/PD-ice) | Shattered | |
@@ -140,6 +140,9 @@
 | <img src="https://github.com/GrampHoang/Gensokyo-pixel-dungeon/blob/main/android/src/debug/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:50px;"/> | Gensokyo Pixel Dungeon | [Github](https://github.com/GrampHoang/Gensokyo-pixel-dungeon) | Shattered 1.3 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Gensokyo_Pixel_Dungeon) |
 | <img src="https://github.com/AndersenJ/flashcard-pixel-dungeon/blob/development/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:50px;"/> | Flashcard Pixel Dungeon | [Github](https://github.com/AndersenJ/flashcard-pixel-dungeon) | Shattered 0.7.5 | |
 | <img src="https://github.com/ReallyBasicGames/Shattered-Pixel-Lore/blob/main/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Shattered Pixel Lore | [Github](https://github.com/ReallyBasicGames/Shattered-Pixel-Lore) | Shattered 1.0.3| |
+| <img src="https://github.com/Cortlandd/PixelDungeonRewards/blob/master/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon Rewards | [Github](https://github.com/Cortlandd/PixelDungeonRewards) |  Original | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
+| <img src="https://github.com/mdsimmo/food-dungeon/blob/master/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Food Dungeon | [Github](https://github.com/mdsimmo/food-dungeon) [Github](https://github.com/mdsimmo/cake-dungeon) | Original 1.9.1 | |
+| <img src="https://github.com/nagytom/pd/blob/master/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | Pixel Dungeon Mod | [Github](https://github.com/nagytom/pd) | Original 1.9.1 | |
 
 | <img src="" alt="drawing" style="width:30px;"/> |  | [Github]() | | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
 
