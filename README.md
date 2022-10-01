@@ -153,6 +153,8 @@
 | <img src="https://github.com/QuasiStellar/Speedrun-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> |  Speedrun Pixel Dungeon | [Github](https://github.com/QuasiStellar/Speedrun-Pixel-Dungeon) | Shattered 1.1.1 | [Releases](https://github.com/QuasiStellar/Speedrun-Pixel-Dungeon/releases) |
 | <img src="" alt="drawing" style="width:30px;"/> | Maze Pixel Dungeon | [Github](https://github.com/jsjclink/MazePixelDungeon) | | [Releases](https://github.com/jsjclink/MazePixelDungeon/blob/main/app.apk) |
 | <img src="https://github.com/gagip/Pedometer-Pixel-Dungeon/blob/main/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | PedometerPixelDungeon | [Github](https://github.com/gagip/Pedometer-Pixel-Dungeon) | Original 1.9.1 | [Releases](https://github.com/gagip/Pedometer-Pixel-Dungeon/releases) |
+| <img src="https://github.com/Hoto-Mocha-sub/Modded-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:30px;"/> | Modded Pixel Dungeon | [Github]() | Shattered 1.3.2 | [Releases](https://github.com/Hoto-Mocha-sub/Modded-Pixel-Dungeon/releases) |
+| <img src="https://github.com/AnsdoShip/spdnet/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:30px;"/> | SPDNet | [Github](https://github.com/AnsdoShip/spdnet) | Shattered 1.0.3 | [Releases](https://github.com/AnsdoShip/spdnet/releases) |
 
 | <img src="" alt="drawing" style="width:30px;"/> |  | [Github]() | | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
 
@@ -166,6 +168,6 @@
 | A generic tile map editor | https://github.com/NYRDS/tiled |
 | Application to find specific seeds for Shattered Pixel Dungeon | https://github.com/alessiomarotta/shpd-seed-finder |
 | Tiled map editor for a pixel game | https://github.com/pashok3d/Pixel_Dungeon_Editor |
-
+| Save editor for shattered pixel dungeon | https://github.com/quinacridone/spd-save-editor |
 
 > **Note:** I'm not trying to steal someone else's work, but I'm trying to preserve the legacy of mods so that anyone can access mods
