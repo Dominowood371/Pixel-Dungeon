@@ -154,6 +154,7 @@
 | <img src="https://github.com/gagip/Pedometer-Pixel-Dungeon/blob/main/app/src/main/res/drawable-mdpi/ic_launcher.png" alt="drawing" style="width:30px;"/> | PedometerPixelDungeon | [Github](https://github.com/gagip/Pedometer-Pixel-Dungeon) | Original 1.9.1 | [Releases](https://github.com/gagip/Pedometer-Pixel-Dungeon/releases) |
 | <img src="https://github.com/Hoto-Mocha-sub/Modded-Pixel-Dungeon/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:30px;"/> | Modded Pixel Dungeon | [Github]() | Shattered 1.3.2 | [Releases](https://github.com/Hoto-Mocha-sub/Modded-Pixel-Dungeon/releases) |
 | <img src="https://github.com/AnsdoShip/spdnet/blob/master/android/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" alt="drawing" style="width:30px;"/> | SPDNet | [Github](https://github.com/AnsdoShip/spdnet) | Shattered 1.0.3 | [Releases](https://github.com/AnsdoShip/spdnet/releases) |
+| <img src="https://github.com/Arackulele/devoted-pixel-dungeon/blob/master/desktop/src/main/assets/icons/icon_devoted.png" alt="drawing" style="width:30px;"/> | Devoted Pixel Dungeon | [Github](https://github.com/Arackulele/devoted-pixel-dungeon) | Shattered 1.4 | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/Devoted_Pixel_Dungeon), [Releases](https://github.com/Arackulele/devoted-pixel-dungeon/releases) |
 
 | <img src="" alt="drawing" style="width:30px;"/> |  | [Github]() | | [Backup](https://github.com/Dominowood371/Pixel-Dungeon/releases/tag/), [Releases](), [Google Play]() |
 
