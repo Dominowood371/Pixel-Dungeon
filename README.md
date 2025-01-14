@@ -179,6 +179,7 @@ Everyone can help with translation by joining Transifex.
 | Icon | Mods | Transifex | 
 |-|-|-|
 | <div align="center"><img src="https://github.com/00-Evan/shattered-pixel-dungeon/blob/master/android/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"  style="width:50px;"/></div> | Shattered Pixel Dungeon | [Transifex](https://explore.transifex.com/shattered-pixel/shattered-pixel-dungeon/) |
+| <div align="center"><img src="https://github.com/NYRDS/remixed-dungeon/blob/master/RemixedDungeon/src/main/res/drawable-hdpi/ic_launcher.png"  style="width:35px;"/></div> | Remixed Dungeon | [Transifex](https://explore.transifex.com/nyrds/remixed-dungeon/) |
 | <div align="center"><img src="https://github.com/hmdzl001/SPS-PD/blob/master/res/mipmap-mdpi/ic_launcher.png"  style="width:35px;"/></div> | SPecial Surprise Pixel Dungeon | [Transifex](https://explore.transifex.com/special-surprise-pd/sps098dokioki/) |
 | <div align="center"><img src="https://github.com/egoal/darkest-pixel-dungeon/blob/master/core/src/main/res/drawable-mdpi/ic_launcher.png"  style="width:30px;"/></div> | Darkest Pixel Dungeon | [Transifex](https://explore.transifex.com/darkest-pixel-dungeon-localization/darkest-pixel-dungeon-localization/) |
 | <div align="center"><img src="https://github.com/LingASDJ/Magic_Ling_Pixel_Dungeon/blob/stable/desktop/src/main/assets/icons/icon_256.png"  style="width:50px;"/></div> | Magic Ling Pixel Dungeon | [Transifex](https://explore.transifex.com/SplDream/magic-ling-pixel-dungeon-Localized-Language/) |
